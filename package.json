@@ -1,0 +1,25 @@
+{
+  "name": "generator-flowtime",
+  "version": "0.0.0",
+  "author": "sasa+1 <sasaplus1@gmail.com>",
+  "description": "Yeoman generator for slide template with flowtime.js",
+  "main": "app/index.js",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sasaplus1/generator-flowtime.git"
+  },
+  "scripts": {
+    "fix": "fixjsstyle --strict --nojsdoc -x ./app/index.js -r ./app -r ./test",
+    "lint": "gjslint --strict --nojsdoc -x ./app/index.js -r ./app -r ./test",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "0.13.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.13",
+    "rimraf": "~2.2"
+  }
+}
