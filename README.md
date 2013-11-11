@@ -36,6 +36,15 @@ $ grunt
 $ grunt archive
 ```
 
+## appended keys for slide
+
+- Enter
+  - move to next page
+  - similar to down key
+- Shift-Enter
+  - move to previous page
+  - similar to up key
+
 ## License
 
 The MIT license. Please see LICENSE file.
