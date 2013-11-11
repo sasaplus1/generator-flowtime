@@ -30,6 +30,12 @@ $ grunt
   1. recompile for file when file updated
   1. reload browser when file updated
 
+### create zip archive for slide
+
+```sh
+$ grunt archive
+```
+
 ## License
 
 The MIT license. Please see LICENSE file.
