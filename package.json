@@ -1,6 +1,6 @@
 {
   "name": "generator-flowtime",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "sasa+1 <sasaplus1@gmail.com>",
   "description": "Yeoman generator for slide template with flowtime.js",
   "main": "app/index.js",
