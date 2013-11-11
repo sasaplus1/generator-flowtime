@@ -1,0 +1,19 @@
+{
+  "name": "-",
+  "private": true,
+  "dependencies": {
+    "flowtime.js": "git://github.com/marcolago/flowtime.js.git"
+  },
+  "exportsOverride": {
+    "flowtime.js": {
+      "css": [
+        "assets/css/*.css",
+        "css/*.css",
+        "css/themes/*.css"
+      ],
+      "js": [
+        "js/flowtime.min.js"
+      ]
+    }
+  }
+}
