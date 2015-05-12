@@ -45,6 +45,10 @@ $ grunt archive
   - move to previous page
   - similar to up key
 
+## Contributors
+
+- [natrem](https://github.com/natrem)
+
 ## License
 
 The MIT license. Please see LICENSE file.
