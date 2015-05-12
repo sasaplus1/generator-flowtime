@@ -30,6 +30,25 @@ $ grunt
   1. recompile for file when file updated
   1. reload browser when file updated
 
+### create zip archive for slide
+
+```sh
+$ grunt archive
+```
+
+## appended keys for slide
+
+- Enter
+  - move to next page
+  - similar to down key
+- Shift-Enter
+  - move to previous page
+  - similar to up key
+
+## Contributors
+
+- [natrem](https://github.com/natrem)
+
 ## License
 
 The MIT license. Please see LICENSE file.
